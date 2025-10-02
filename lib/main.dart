@@ -34,7 +34,7 @@ class _ClimaScreenState extends State<ClimaScreen> {
   int humedad = 0;
   bool cargando = true;
 
-  // 👇 Pega tu API KEY aquí
+  // API KEY
   final String apiKey = "38f9694b1fb4d9e4cd22d928bda34d69";
 
   @override
